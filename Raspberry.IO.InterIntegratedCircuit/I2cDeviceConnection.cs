@@ -3,7 +3,7 @@ namespace Raspberry.IO.InterIntegratedCircuit
     /// <summary>
     /// Represents a connection to the I2C device.
     /// </summary>
-    public class I2cDeviceConnection
+    public class I2cDeviceConnection : II2cDeviceConnection
     {
         #region Fields
 
